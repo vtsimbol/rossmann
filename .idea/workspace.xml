@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db736bb-9e35-445e-bcf9-db300ff4db80" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rossmann.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rossmann.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/fit-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/fit-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fit.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fit/pre_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fit/pre_test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fit/pre_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fit/pre_train.csv" afterDir="false" />
-    </list>
+    <list default="true" id="2db736bb-9e35-445e-bcf9-db300ff4db80" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +11,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="172" />
     <option name="y" value="44" />
     <option name="width" value="1400" />
@@ -76,7 +68,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="172" y="44" width="1400" height="1000" extended-state="1" />
+    <frame x="172" y="44" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
