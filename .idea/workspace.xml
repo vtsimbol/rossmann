@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db736bb-9e35-445e-bcf9-db300ff4db80" name="Default Changelist" comment="" />
+    <list default="true" id="2db736bb-9e35-445e-bcf9-db300ff4db80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/fit-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/fit-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fit/pre_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fit/pre_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fit/pre_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fit/pre_train.csv" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +18,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="295" />
-    <option name="y" value="15" />
+    <option name="x" value="172" />
+    <option name="y" value="44" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -23,7 +29,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -35,6 +40,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -68,7 +74,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="295" y="15" width="1400" height="1000" extended-state="0" />
+    <frame x="172" y="44" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -81,7 +87,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298731" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.7554787" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298731" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
