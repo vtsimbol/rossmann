@@ -1,5 +1,5 @@
 venv/
 .idea/
 .ipynb_checkpoints/
-models/
-model/model.bin
+__pycache__/
+model/
