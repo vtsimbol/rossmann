@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2db736bb-9e35-445e-bcf9-db300ff4db80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/fit-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/fit-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fit.ipynb" afterDir="false" />
     </list>
@@ -14,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="213" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
@@ -25,6 +26,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -36,7 +38,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -70,7 +71,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="213" y="0" width="1400" height="1000" extended-state="1" />
+    <frame x="213" y="0" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
